@@ -1,2 +1,2 @@
-PathfinderEncounters
-====================
+Android Tabletop for Pathfinder
+===============================
